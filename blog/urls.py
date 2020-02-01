@@ -8,5 +8,5 @@ urlpatterns = [
     path('',views.admit)
 ]
 
-print('path')
+print('path')s
 
