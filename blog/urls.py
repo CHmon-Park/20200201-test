@@ -7,3 +7,4 @@ from blog import views
 urlpatterns = [
     path('',views.admit)
 ]
+
